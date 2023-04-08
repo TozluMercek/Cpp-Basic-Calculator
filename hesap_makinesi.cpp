@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-// Sadece % operatörü çalýþmýyor, sorunu çözemedim.
+// Sadece % operatÃ¶rÃ¼ Ã§alismiyor, sorunu Ã§Ã¶zemedim.
 
 
 int main() {
@@ -36,7 +36,7 @@ int main() {
         }
         else if (operation == ' % ') {
             if (num2 == 0) {
-                cout << "Sýfýra bolunmez";
+                cout << "SÃ½fÃ½ra bolunmez";
             }
             else {
                 cout << num1 << " % " << num2 << " = " << (int)num1 % (int)num2 << endl;
